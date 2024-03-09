@@ -1,0 +1,6 @@
+CENG1111;Academic English;Enes Karaca;4
+CENG2222;Chemie;John Wick;0
+CENG3333;Programming;Recep Ivedik;3
+CENG4444;Math;Andrew Tate;2
+CENG5555;Physics;Cakal;1
+CENG6666;Data Structures and Algorithms;Steve;5
